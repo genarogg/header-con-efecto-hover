@@ -63,5 +63,19 @@ header{
 
 }
 
+.texto{
+    font-size: 1.2em;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    opacity: 1;
+    transition: all 600ms;
+}
+
+.contenedor:hover{
+    height: 110%;
+    transition: all 600ms;    
+}
+
 
 
